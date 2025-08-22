@@ -1,0 +1,6 @@
+<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Orbit</title><style>body{margin:0;background:#0b0d14;color:#eef;font:16px system-ui}main{max-width:760px;margin:0 auto;padding:20px}
+.card{background:#11141f;border:1px solid rgba(255,255,255,.1);border-radius:14px;padding:16px} .btn{display:inline-block;margin:8px 0;padding:10px 12px;border-radius:10px;background:#39e56a;color:#041}
+h1{margin:0 0 8px}</style><main><div class="card"><h1>Orbit (demo)</h1>
+<p>If you can read this, downloads are working. I can re-export the full Pump.fun/Bags UI next.</p>
+<a class="btn" href="#">New coin</a></div></main>
